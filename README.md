@@ -1,3 +1,3 @@
-This app was made in an IIT IEEE CS workshop.
+This app was made in an IEEE IIT SB CS workshop.
 
 To benefit from this app, you need to provide an OpenWeatherMap API key by replacing `API_KEY` in `lib/meteo-details.page` with your own key.
